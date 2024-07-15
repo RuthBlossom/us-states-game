@@ -3,6 +3,10 @@
 ## Overview
 This Python script implements a simple game to help users learn the names of U.S. states. The game displays a blank map of the United States, and the user is prompted to enter the names of the states. As the user correctly guesses state names, they are displayed on the map. The game continues until all 50 states have been guessed or the user chooses to exit.
 
+![states game](https://github.com/user-attachments/assets/eed74261-96a3-4485-9f3a-53f9805298a4)
+![united states game](https://github.com/user-attachments/assets/da570a54-c9c4-40ca-bcc7-2c93ad68c384)
+
+
 ## Prerequisites
 - Python 3.x
 - pandas (`pip install pandas`)
